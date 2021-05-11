@@ -1,0 +1,61 @@
+body,
+h2,
+p {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: blueviolet;
+  padding: 3em;
+}
+
+header img {
+  width: 14%;
+}
+
+main {
+  margin-top: 2em;
+  display: flex;
+  justify-content: space-between;
+}
+
+main img {
+  width: 50%;
+}
+
+.content {
+  width: 40%;
+  padding-top: 2em;
+}
+
+.content h2 {
+  font-size: 40px;
+  color: white;
+}
+
+.content p {
+  margin: 2em 0em;
+  font-size: 15px;
+  color: white;
+}
+
+main button {
+  padding: 1em;
+  border: none;
+  border-radius: 30px;
+  background-color: white;
+  color: purple;
+  width:40%;
+}
+
+.fa-facebook-f,
+.fa-twitter,
+.fa-instagram {
+  color: white;
+  border: 1px solid white;
+  border-radius: 50%;
+  padding: 12px;
+  margin: 0 12px;
+  float: right;
+}
