@@ -1,24 +1,23 @@
 {
   "files": {
-    "main.css": "/reactapp/static/css/main.a276d39a.chunk.css",
-    "main.js": "/reactapp/static/js/main.73f210c3.chunk.js",
-    "main.js.map": "/reactapp/static/js/main.73f210c3.chunk.js.map",
-    "runtime-main.js": "/reactapp/static/js/runtime-main.c94b819c.js",
-    "runtime-main.js.map": "/reactapp/static/js/runtime-main.c94b819c.js.map",
-    "static/js/2.8911d523.chunk.js": "/reactapp/static/js/2.8911d523.chunk.js",
-    "static/js/2.8911d523.chunk.js.map": "/reactapp/static/js/2.8911d523.chunk.js.map",
-    "static/js/3.fdfffa07.chunk.js": "/reactapp/static/js/3.fdfffa07.chunk.js",
-    "static/js/3.fdfffa07.chunk.js.map": "/reactapp/static/js/3.fdfffa07.chunk.js.map",
-    "index.html": "/reactapp/index.html",
-    "static/css/main.a276d39a.chunk.css.map": "/reactapp/static/css/main.a276d39a.chunk.css.map",
-    "static/js/2.8911d523.chunk.js.LICENSE.txt": "/reactapp/static/js/2.8911d523.chunk.js.LICENSE.txt",
-    "static/media/illustration-mockups.264994a5.svg": "/reactapp/static/media/illustration-mockups.264994a5.svg",
-    "static/media/logo.2b3c07e4.svg": "/reactapp/static/media/logo.2b3c07e4.svg"
+    "main.css": "/secondreactapp/static/css/main.5c961728.chunk.css",
+    "main.js": "/secondreactapp/static/js/main.e03432e6.chunk.js",
+    "main.js.map": "/secondreactapp/static/js/main.e03432e6.chunk.js.map",
+    "runtime-main.js": "/secondreactapp/static/js/runtime-main.804cdd87.js",
+    "runtime-main.js.map": "/secondreactapp/static/js/runtime-main.804cdd87.js.map",
+    "static/js/2.aadcc0b1.chunk.js": "/secondreactapp/static/js/2.aadcc0b1.chunk.js",
+    "static/js/2.aadcc0b1.chunk.js.map": "/secondreactapp/static/js/2.aadcc0b1.chunk.js.map",
+    "static/js/3.5536f23a.chunk.js": "/secondreactapp/static/js/3.5536f23a.chunk.js",
+    "static/js/3.5536f23a.chunk.js.map": "/secondreactapp/static/js/3.5536f23a.chunk.js.map",
+    "index.html": "/secondreactapp/index.html",
+    "static/css/main.5c961728.chunk.css.map": "/secondreactapp/static/css/main.5c961728.chunk.css.map",
+    "static/js/2.aadcc0b1.chunk.js.LICENSE.txt": "/secondreactapp/static/js/2.aadcc0b1.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/secondreactapp/static/media/bg-intro-mobile.02ce3982.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c94b819c.js",
-    "static/js/2.8911d523.chunk.js",
-    "static/css/main.a276d39a.chunk.css",
-    "static/js/main.73f210c3.chunk.js"
+    "static/js/runtime-main.804cdd87.js",
+    "static/js/2.aadcc0b1.chunk.js",
+    "static/css/main.5c961728.chunk.css",
+    "static/js/main.e03432e6.chunk.js"
   ]
 }
